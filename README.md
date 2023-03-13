@@ -1,2 +1,2 @@
 # miPython
-Mis ficheros de aprendizaje de Python
+Mis ficheros de consulta Python
